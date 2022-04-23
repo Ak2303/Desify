@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StartActivity">
+
+    <ImageView
+        android:id="@+id/iitjLogo"
+        android:layout_width="151dp"
+        android:layout_height="154dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/iitjlogo1" />
+
+    <TextView
+        android:id="@+id/projectName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="16dp"
+        android:text="E"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/material_on_background_emphasis_high_type"
+        android:textSize="29sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iitjLogo" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mbedded"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/material_on_background_emphasis_high_type"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/projectName"
+        app:layout_constraintStart_toEndOf="@+id/projectName"
+        app:layout_constraintTop_toTopOf="@+id/projectName"
+        app:layout_constraintVertical_bias="0.8" />
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="409dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="16dp"
+        android:background="?android:attr/listDivider"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/projectName" />
+
+    <Button
+        android:id="@+id/soundClassificationBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="76dp"
+        android:text="Sound Classififcation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/divider" />
+
+    <Button
+        android:id="@+id/objectDetectionBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="32dp"
+        android:text="Object Detection"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/soundClassificationBtn" />
+
+    <Button
+        android:id="@+id/devInfoBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="32dp"
+        android:text="Developer Information"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/objectDetectionBtn"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="S"
+        android:textColor="@color/material_on_background_emphasis_high_type"
+        android:textSize="29sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/projectName"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toTopOf="@+id/projectName" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ystem"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/material_on_background_emphasis_high_type"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/textView6"
+        app:layout_constraintStart_toEndOf="@+id/textView6"
+        app:layout_constraintTop_toTopOf="@+id/textView6"
+        app:layout_constraintVertical_bias="0.8" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="P"
+        android:textColor="@color/material_on_background_emphasis_high_type"
+        android:textSize="29sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/textView6"
+        app:layout_constraintStart_toEndOf="@+id/textView7"
+        app:layout_constraintTop_toTopOf="@+id/textView6" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="50dp"
+        android:text="roject"
+        android:textAllCaps="true"
+        android:textColor="@color/material_on_background_emphasis_high_type"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/textView8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView8"
+        app:layout_constraintTop_toTopOf="@+id/textView8"
+        app:layout_constraintVertical_bias="0.8" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

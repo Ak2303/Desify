@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\merged.dir\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\akv shanta\\.gradle\\caches\\transforms-3\\036dd6c8778d74e8c5319bfc4c83cc21\\transformed\\material-1.3.0\\res\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\akv shanta\\.gradle\\caches\\transforms-3\\36c4686e5b276a2ee9b1838d0dbd6e65\\transformed\\appcompat-1.2.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

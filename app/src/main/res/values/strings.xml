@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Desify</string>
+    <string name="label_input" translatable="false">Input:</string>
+    <string name="overlap_factor_label" translatable="false">Classification Interval</string>
+    <string name="tensorflow_lite_logo" translatable="false">TensorFlow Lite Logo</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">TFL Detect</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+
+</resources>

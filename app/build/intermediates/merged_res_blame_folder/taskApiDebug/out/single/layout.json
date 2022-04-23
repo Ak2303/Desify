@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\stripped.dir\\layout\\tfe_od_camera_connection_fragment_tracking.xml",
+        "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\layout\\tfe_od_camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\stripped.dir\\layout\\item_probability.xml",
+        "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\layout\\item_probability.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\stripped.dir\\layout\\tfe_od_activity_camera.xml",
+        "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\layout\\tfe_od_activity_camera.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\stripped.dir\\layout\\activity_dev_info.xml",
+        "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\layout\\activity_dev_info.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\stripped.dir\\layout\\activity_start.xml",
+        "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\stripped.dir\\layout\\tfe_od_layout_bottom_sheet.xml",
+        "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\layout\\tfe_od_layout_bottom_sheet.xml"
+    }
+]
