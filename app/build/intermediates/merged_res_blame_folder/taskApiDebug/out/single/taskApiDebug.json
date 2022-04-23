@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\merged_res\\taskApiDebug\\drawable-hdpi_desify_logo_dark.jpg.flat",
+        "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\drawable-hdpi\\desify_logo_dark.jpg"
+    },
+    {
         "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\merged_res\\taskApiDebug\\drawable_ic_baseline_add.xml.flat",
         "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\drawable\\ic_baseline_add.xml"
     },
@@ -122,6 +126,10 @@
     {
         "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\merged_res\\taskApiDebug\\drawable_vikas.jpg.flat",
         "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\drawable\\vikas.jpg"
+    },
+    {
+        "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\merged_res\\taskApiDebug\\drawable-hdpi_desify_logo_light.jpg.flat",
+        "source": "C:\\AndroidStudioProject\\Desify\\app\\src\\main\\res\\drawable-hdpi\\desify_logo_light.jpg"
     },
     {
         "merged": "C:\\AndroidStudioProject\\Desify\\app\\build\\intermediates\\merged_res\\taskApiDebug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",

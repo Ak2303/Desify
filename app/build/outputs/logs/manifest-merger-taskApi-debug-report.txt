@@ -102,9 +102,9 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\akv shanta\.gra
 	android:label
 		ADDED from C:\AndroidStudioProject\Desify\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from C:\AndroidStudioProject\Desify\app\src\main\AndroidManifest.xml:14:9-48
+		ADDED from C:\AndroidStudioProject\Desify\app\src\main\AndroidManifest.xml:14:9-56
 	android:icon
-		ADDED from C:\AndroidStudioProject\Desify\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\AndroidStudioProject\Desify\app\src\main\AndroidManifest.xml:12:9-51
 	android:allowBackup
 		ADDED from C:\AndroidStudioProject\Desify\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme

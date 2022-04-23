@@ -1650,6 +1650,8 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable caret
 drawable chair
+drawable desify_logo_dark
+drawable desify_logo_light
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
